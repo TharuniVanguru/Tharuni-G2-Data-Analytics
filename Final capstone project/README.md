@@ -18,11 +18,11 @@
 
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong> <!--- Add your name---> </p>
-    <p><strong>Email ID:</strong> <!--- Add your mail id ---> </p>
-    <p><strong>College Name:</strong> <!--- Add your college name---> </p>
-    <p><strong>Branch/Specialization :</strong> <!--- Add your branch name---> </p>
-    <p><strong>College ID:</strong> <!--- Add your college ID---> </p>
+    <p><strong>Name:Tharuni Vanguru</strong> <!--- Add your name---> </p>
+    <p><strong>Email ID:tharunireddy04@gmail.com</strong> <!--- Add your mail id ---> </p>
+    <p><strong>College Name:MVSR Engineering College</strong> <!--- Add your college name---> </p>
+    <p><strong>Branch/Specialization :Information Technology</strong> <!--- Add your branch name---> </p>
+    <p><strong>College ID:2451-23-737-157</strong> <!--- Add your college ID---> </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
@@ -63,20 +63,12 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
-During this course, I learned the fundamentals of web development and project design.
-I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
-problem-solving, teamwork, documentation, and delivering real-world project solutions.
-
+During this course, I gained practical knowledge and hands-on experience in Data Analytics. I learned how to collect, clean, validate and analyze real-world datasets. I gained experience in Exploratory Data Analysis, data visualization, comparative analysis, hypothesis testing and business analysis. I also learned how to use Python, Pandas, NumPy, visualization tools, Machine Learning and Explainable AI to find meaningful patterns and insights from data. I developed skills in creating dashboards using Tableau and interactive applications using Streamlit. This course improved my analytical thinking, problem-solving, visualization and decision-making skills and helped me understand how raw data can be converted into meaningful business insights.
 
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><strong><a href="#project3">Project 3:</a></strong> &lt;!-- Add project title → --&gt;</p>
+<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Payment Ecosystem Analytics → --&gt;</p>
 
 <p><em>(You can add more projects as needed)</em></p>
 

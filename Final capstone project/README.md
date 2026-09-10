@@ -33,7 +33,7 @@
     <p><strong>Instructor Name:Keerthana V</strong> <!--- Add your instructor name---> </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Duration:</strong> <!--- Durations in months---> </p>
+    <p><strong>Duration:April - September</strong> <!--- Durations in months---> </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
@@ -42,7 +42,7 @@
 
 <p><strong>Trainer Name:Keerthana v</strong> <!–– Add trainer name ––></p>
 <p><strong>Trainer Email ID:keerthanavasudevan54@gmail.com</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:Senior Executive Business Analyst Exl Service</strong> <!–– Add designation along with company––></p>
+<p><strong>Trainer Designation:Senior Executive Business Analyst Exl Service</strong></p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
@@ -68,37 +68,21 @@ During this course, I gained practical knowledge and hands-on experience in Data
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Payment Ecosystem Analytics → --&gt;</p>
+<p><strong><a href="#project1">Project 1:</a></strong> &lt;Payment Ecosystem Analytics&gt;</p>
 
-<p><em>(You can add more projects as needed)</em></p>
 
 </div>
 
 <!-- Project 1 -->
-<h3 id="project1">Project 1: <!-- Add Project Title --></h3>
+<h3 id="project1">Project 1: Payment Ecosystem Analytics</h3>
 <p>
-  This project involved designing and developing a basic functional module using the core concepts taught in the course.
-  It focused on understanding requirements, creating structured code, and implementing key features.
+   This project focused on analyzing India’s payment ecosystem using real-world ATM, PSI and NPCI datasets for 2025.
+  I worked on data cleaning, validation, Exploratory Data Analysis, comparative analysis, hypothesis testing and business querying
+  to identify payment trends, growth patterns and important business insights. I also used Machine Learning and Explainable AI
+  for prediction and interpretation, and presented the results through an interactive Streamlit application and dashboard.
 </p>
 <p>
   <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
-
-<!-- Project 2 -->
-<h3 id="project2">Project 2: <!-- Add Project Title --></h3>
-<p>
-  This project expanded on intermediate concepts and required integrating multiple components to build a more complete solution.
-  It enhanced understanding of UI/UX design, modular coding, and testing.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
-
-<!-- Project 3 -->
-<h3 id="project3">Project 3: <!-- Add Project Title --></h3>
-<p>
-  The final project showcased the practical application of all concepts learned throughout the course.  
-  It required planning, building, optimizing, and documenting a complete real-world project.
 </p>
 <p>
   <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>

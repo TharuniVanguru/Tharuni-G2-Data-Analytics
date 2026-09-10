@@ -29,8 +29,8 @@
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> <!--- Add your course name---> </p>
-    <p><strong>Instructor Name:</strong> <!--- Add your instructor name---> </p>
+    <p><strong>Course Opted:Data Analytics</strong> <!--- Add your course name---> </p>
+    <p><strong>Instructor Name:Keerthana V</strong> <!--- Add your instructor name---> </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
     <p><strong>Duration:</strong> <!--- Durations in months---> </p>
@@ -40,9 +40,9 @@
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Trainer Name:</strong> <!–– Add trainer name ––></p>
-<p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
+<p><strong>Trainer Name:Keerthana v</strong> <!–– Add trainer name ––></p>
+<p><strong>Trainer Email ID:keerthanavasudevan54@gmail.com</strong> <!–– Add trainer email ––></p>
+<p><strong>Trainer Designation:Senior Executive Business Analyst Exl Service</strong> <!–– Add designation along with company––></p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
